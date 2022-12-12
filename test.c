@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("hello\n");
+    int a = 10, b = 20;
+    printf("%d\n", a + b);
+    return 0;
 }
